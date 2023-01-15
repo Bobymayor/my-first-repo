@@ -1,3 +1,3 @@
 # my-first-repo
 First GH repository for tests
-This is the modified code from main featured in "first-branch" branch.
+I prefer like this (this is a modification of a 1st commit in first-branch)
